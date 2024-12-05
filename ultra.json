@@ -3,6 +3,6 @@
     "name": "Cosmetics Utilities",
     "id": "CosmeticUtils",
     "repo": "https://github.com/CrystalMarble/CosmeticUtils",
-    "download_urls": {"CrystalMarble.dll": "https://example.com"}
+    "download_urls": [{"name": "CrystalMarble.dll", "url": "https://example.com"}]
   }
 ]
