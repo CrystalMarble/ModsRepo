@@ -2,7 +2,8 @@
   {
     "name": "Cosmetics Utilities",
     "id": "CosmeticUtils",
-    "repo": "https://github.com/CrystalMarble/CosmeticUtils",
-    "download_urls": [{"name": "CrystalMarble.dll", "url": "https://example.com"}]
+    "repo": "CrystalMarble/CosmeticUtils",
+    "owner": "StarNumber12046",
+    "main": "CosmeticUtils.dll"
   }
 ]
