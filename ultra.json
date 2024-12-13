@@ -4,6 +4,7 @@
     "id": "CosmeticUtils",
     "repo": "CrystalMarble/CosmeticUtils",
     "owner": "StarNumber12046",
-    "main": "CosmeticUtils.dll"
+    "main": "CosmeticUtils.dll",
+    "description": "Provides a lot of commands for interacting with cosmetics"
   }
 ]
