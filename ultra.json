@@ -6,5 +6,13 @@
     "owner": "StarNumber12046",
     "main": "CosmeticUtils.dll",
     "description": "Provides a lot of commands for interacting with cosmetics"
+  },
+  {
+    "name": "Old Mods",
+    "id": "OldMods",
+    "repo": "CrystalMarble/OldMods",
+    "owner": "StarNumber12046",
+    "main": "OldMods.dll",
+    "description": "Ports @thearst3rd's old mods collection to CrystalMarble"
   }
 ]
