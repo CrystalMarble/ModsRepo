@@ -14,5 +14,13 @@
     "owner": "StarNumber12046",
     "main": "OldMods.dll",
     "description": "Ports @thearst3rd's old mods collection to CrystalMarble"
+  },
+  {
+    "name": "Shatter",
+    "id": "Shatter",
+    "repo": "StarNumber12046/Shatter",
+    "owner": "StarNumber12046",
+    "main": "Shatter.dll",
+    "description": "The utility mod for Marble it Up! Ultra"
   }
 ]
