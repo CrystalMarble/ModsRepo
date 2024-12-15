@@ -22,5 +22,13 @@
     "owner": "StarNumber12046",
     "main": "Shatter.dll",
     "description": "The utility mod for Marble it Up! Ultra"
+  },
+  {
+    "name": "Developer Utils",
+    "id": "DevUtis",
+    "repo": "CrystalMarble/DevUtils",
+    "owner": "StarNumber12046",
+    "main": "DevUtils.dll",
+    "description": "Gives useful tools to CrystalMarble mod developers"
   }
 ]
